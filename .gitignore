@@ -1,0 +1,27 @@
+
+## Directory Exclusion
+/.idea/
+/target/
+/screenshot/
+/automation-logs/
+/.settings/
+
+## Recursive Exclusion
+/.idea/*
+/target/*
+/screenshot/*
+/automation-logs/*
+/.settings/*
+/http-logs/*
+/http-logs
+
+## Files exclusion
+*.iml
+*.png
+*.jpg
+*.jpeg
+*.log
+*.classpath
+*.factorypath
+*.project
+*.class
